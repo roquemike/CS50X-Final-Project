@@ -103,6 +103,7 @@ The project was created in the CS50 ide environment and used the following libra
 
 ### Google Text to Speech
 
+The Applications uses Googles Text to Speech to generate the Audio files.
 The Google Text to Speech Package needs to be installed first in the ide to make the gTTx library available.
 
 Run the command from ide to install gTTs package
@@ -157,15 +158,14 @@ CREATE TABLE img(
 
 ##### Sample Table
 sqlite> select * from img;
-id   name        desc
----  ----------  ----------
-4    black.jpg   black
-5    blue.jpg    blue
-6    brown.jpg   brown
-7    gray.jpg    gray
-8    green.jpg   green
-9    orange.jpg  orange
-10   pink.jpg    pink
+id  | name       | desc
+4   | black.jpg  | black
+5   | blue.jpg   | blue
+6   | brown.jpg  | brown
+7   | gray.jpg   | gray
+8   | green.jpg  | green
+9   | orange.jpg | orange
+10  | pink.jpg   | pink
 
 #### Tag Table
 
@@ -180,17 +180,16 @@ Table to store image tags references image table and user table.
     );
 
 ##### Sample Table
-image_id    user_id     tag
-----------  ----------  ----------
-4           1           color
-5           1           color
-52          1           places
-53          1           places
-54          1           places
-55          1           places
-34          104         favourites
-44          104         favourites
-35          104         favourites
+image_id  |  user_id   |  tag
+4         |  1         |  color
+5         |  1         |  color
+52        |  1         |  places
+53        |  1         |  places
+54        |  1         |  places
+55        |  1         |  places
+34        |  104       |  favourites
+44        |  104       |  favourites
+35        |  104       |  favourites
 
 
 ## References
