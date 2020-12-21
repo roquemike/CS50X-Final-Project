@@ -2,12 +2,19 @@
 
 ..every readme should have an ascii text art..
 
-░█████╗░███╗░░██╗██╗░░░░░██╗███╗░░██╗███████╗  ██████╗░███████╗░█████╗░░██████╗  ██████╗░██╗███╗░░██╗██████╗░███████╗██████╗░
-██╔══██╗████╗░██║██║░░░░░██║████╗░██║██╔════╝  ██╔══██╗██╔════╝██╔══██╗██╔════╝  ██╔══██╗██║████╗░██║██╔══██╗██╔════╝██╔══██╗
-██║░░██║██╔██╗██║██║░░░░░██║██╔██╗██║█████╗░░  ██████╔╝█████╗░░██║░░╚═╝╚█████╗░  ██████╦╝██║██╔██╗██║██║░░██║█████╗░░██████╔╝
-██║░░██║██║╚████║██║░░░░░██║██║╚████║██╔══╝░░  ██╔═══╝░██╔══╝░░██║░░██╗░╚═══██╗  ██╔══██╗██║██║╚████║██║░░██║██╔══╝░░██╔══██╗
-╚█████╔╝██║░╚███║███████╗██║██║░╚███║███████╗  ██║░░░░░███████╗╚█████╔╝██████╔╝  ██████╦╝██║██║░╚███║██████╔╝███████╗██║░░██║
-░╚════╝░╚═╝░░╚══╝╚══════╝╚═╝╚═╝░░╚══╝╚══════╝  ╚═╝░░░░░╚══════╝░╚════╝░╚═════╝░  ╚═════╝░╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝
+░█████╗░███╗░░██╗██╗░░░░░██╗███╗░░██╗███████╗  ██████╗░███████╗░█████╗░░██████╗
+██╔══██╗████╗░██║██║░░░░░██║████╗░██║██╔════╝  ██╔══██╗██╔════╝██╔══██╗██╔════╝
+██║░░██║██╔██╗██║██║░░░░░██║██╔██╗██║█████╗░░  ██████╔╝█████╗░░██║░░╚═╝╚█████╗░
+██║░░██║██║╚████║██║░░░░░██║██║╚████║██╔══╝░░  ██╔═══╝░██╔══╝░░██║░░██╗░╚═══██╗
+╚█████╔╝██║░╚███║███████╗██║██║░╚███║███████╗  ██║░░░░░███████╗╚█████╔╝██████╔╝
+░╚════╝░╚═╝░░╚══╝╚══════╝╚═╝╚═╝░░╚══╝╚══════╝  ╚═╝░░░░░╚══════╝░╚════╝░╚═════╝░
+
+  ██████╗░██╗███╗░░██╗██████╗░███████╗██████╗░
+  ██╔══██╗██║████╗░██║██╔══██╗██╔════╝██╔══██╗
+  ██████╦╝██║██╔██╗██║██║░░██║█████╗░░██████╔╝
+  ██╔══██╗██║██║╚████║██║░░██║██╔══╝░░██╔══██╗
+  ██████╦╝██║██║░╚███║██████╔╝███████╗██║░░██║
+  ╚═════╝░╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝
 
 ## About
 
@@ -86,13 +93,13 @@ A favourites tab will appear with all the PECS tagged as favourite.
 
 The project was created in the CS50 ide environment and used the following libraries that were already available:
 
-    - [Werkzeug library](https://pypi.org/project/Werkzeug/)
-    - [CS50 library](https://cs50.readthedocs.io/libraries/cs50/python/)
-    - [Flask library](https://pypi.org/project/Flask/)
-    - [flask_session](https://pypi.org/project/Flask-Session/)
-    - [HTML 5](https://en.wikipedia.org/wiki/HTML5) is used for HTML. [Jinja version 2.11](https://jinja.palletsprojects.com/en/2.11.x/) was used to autogenerate HTML using python.
-    - [CSS](https://en.wikipedia.org/wiki/CSS) was implemented using my own [stylesheet](https://github.com/Amjuks/My-CS50-Project/blob/master/static/style.css) and a bit of [Bootstrap](https://getbootstrap.com). [Font Awesome](https://fontawesome.com) was used to display the star icons.
-    - [Javascript](https://www.javascript.com) was used with HTML to replace some stuff done with python(Errors when the input feilds are empty instead of redirecting into another page)
+- [Werkzeug library](https://pypi.org/project/Werkzeug/)
+- [CS50 library](https://cs50.readthedocs.io/libraries/cs50/python/)
+- [Flask library](https://pypi.org/project/Flask/)
+- [flask_session](https://pypi.org/project/Flask-Session/)
+- [HTML 5](https://en.wikipedia.org/wiki/HTML5) is used for HTML. [Jinja version 2.11](https://jinja.palletsprojects.com/en/2.11.x/) was used to autogenerate HTML using python.
+- [CSS](https://en.wikipedia.org/wiki/CSS) was implemented using my own [stylesheet](https://github.com/Amjuks/My-CS50-Project/blob/master/static/style.css) and a bit of [Bootstrap](https://getbootstrap.com). [Font Awesome](https://fontawesome.com) was used to display the star icons.
+- [Javascript](https://www.javascript.com) was used with HTML to replace some stuff done with python(Errors when the input feilds are empty instead of redirecting into another page)
 
 ### Google Text to Speech
 
@@ -101,6 +108,23 @@ The Google Text to Speech Package needs to be installed first in the ide to make
 Run the command from ide to install gTTs package
 
     $ pip install gTTS
+
+### Folder Structure
+
+#### Root Folder
+
+Comtains the Python Code and other helper functions as well as the database.
+
+#### Static Folder
+
+Contains items that are available to Flask Application, including css and the following subfolders include:
+
+- [uploads] Will contain the uploaded images.
+- [audio] Will comtain the generated audio files.
+
+#### Templates Folder
+
+Contains the html files.
 
 ### Database Schema
 
