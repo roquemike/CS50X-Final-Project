@@ -23,7 +23,7 @@
 
 - [About](#About)
 - [Description](#Description)
-  * [PECS Strips](#PECS)
+  * [PECS Strips ( Home / Index )](#'PECS Strips ( Home / Index )')
     + [Sub-sub-heading](#sub-sub-heading-1)
   * [Audio](#Audio)
   
