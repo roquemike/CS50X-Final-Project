@@ -27,7 +27,7 @@
     + [Audio](#Audio)
     + [Strip Tabs](#Strip%20Tabs)
     + [Registered Users](#Registered%20Users)
-  * [Project Resources](#Project%2-Resources)
+  * [Project Resources](#Project%20Resources)
   * [References](#References)
 
 # About
@@ -62,13 +62,14 @@ Clicking on the Read icon which will read the whole sentence structure for both 
 
 ### Strip Tabs
 
-#### I Want Strip
+<details><summary>I Want Strip</summary>
 <img src="images/binder-iwant.jpg" width="700px">
 The I Want Strip can be used by the individual to request for an activity or item.<br />
 The PECS can be chosen by scrolling through the PECS tab then clicking on one of the available PECS,<br />
 The chosen PECS then will automatically appear beside the I Want Picture.<br />
+</details>
 
-#### First .. Then Strip
+<details><summary>First .. Then Strip</summary>
 <img src="images/binder-first-then.jpg" width="700px">
 
 The First .. Then strip is used to communicate with the individual and is useful to convey a sequence of events,<br />
@@ -78,6 +79,7 @@ The active box will automatically move to "Then" after choosing a PECS, the next
 
 Clicking on any of the Boxes will change the active Box. Once an active box is chosen, you can change the current PECS by clicking another PECS.<br />
 Alternately, the user can click the reset button to clear the Strip Boxes.
+</details>
 
 ## Registered Users
 
@@ -85,7 +87,7 @@ Registered Users have the capaibility to
 - Upload / Edit
 - Manage Favourites 
 
-### Upload
+<details><summary>Upload</summary>
 <img src="images/binder-upload.jpg" width="700px">
 Upload allows a registred user to upload a PECS.<br />
 The PECS will then appear with the rest of the Available PECS and will only be available to the person that uploaded the picture.<br />
@@ -94,16 +96,18 @@ The PECS will then appear with the rest of the Available PECS and will only be a
 Upon a successful upload, the PECS will be shown including the description and the tag.<br />
 An audio for the description is automtically generated for the PECS.<br />
 A database entry will be insderted containing the image's location, the description audio location, and the tag. <br />
+</details>
 
-### Edit
+<details><summary>Edit</summary>
 <img src="images/binder-edit-tag.jpg" width="700px">
 Edit allows the user to change the Description and Tag of the PECS, or delete the picture.<br />
 Clicking on the Description will provide a cursor to allow the user to change the description.<br />
 Clicking on the tag will show all available tags in a drop-down.<br />
 The changes, once made are saved to the database automatically and will not need any additional action to save.<br />
 Only the PECS that the user has uploaded will be shown in this section.<br />
+</details>
 
-### Manage Faves
+<details><summary>Manage Faves</summary>
 <img src="images/binder-manage_fave.jpg" width="700px">
 PECS can be added to a favourite tab.<br />
 All Available PECS, including the standard PECS will can be tagged in favourites.<br />
@@ -113,6 +117,7 @@ Clicking on a solid star will remove it from favourites.<br />
 <img src="images/binder-home-fave.jpg" width="700px">
 A Favourites tab will appear with all the PECS tagged as favourite.<br />
 If there are no images tagged in Favourites, this tab will not be shown.<br />
+</details>
 
 # Project Resources
 
