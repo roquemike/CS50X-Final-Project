@@ -1,6 +1,6 @@
 # Online PECS binder
 
-
+<details><summary>some ascii text art</summary>
 
 <nobr>░█████╗░███╗░░██╗██╗░░░░░██╗███╗░░██╗███████╗  ██████╗░███████╗░█████╗░░██████╗</nobr><br />
 <nobr>██╔══██╗████╗░██║██║░░░░░██║████╗░██║██╔════╝  ██╔══██╗██╔════╝██╔══██╗██╔════╝</nobr><br />
@@ -18,6 +18,7 @@
 
 ..every readme should have an ascii text art.. <br />
 ..polarburr#9201..
+</details>
 
 # TOC
 
