@@ -1,6 +1,6 @@
 # Online PECS binder
 
-..every readme should have an ascii text art..
+
 
 ░█████╗░███╗░░██╗██╗░░░░░██╗███╗░░██╗███████╗  ██████╗░███████╗░█████╗░░██████╗
 ██╔══██╗████╗░██║██║░░░░░██║████╗░██║██╔════╝  ██╔══██╗██╔════╝██╔══██╗██╔════╝
@@ -20,7 +20,7 @@
 
 
 
-
+..every readme should have an ascii text art..
 ## About
 
 PECS stands for Picture Exchange Communication System.
