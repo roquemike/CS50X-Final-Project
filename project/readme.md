@@ -40,7 +40,7 @@ Registration will allow users of the application to upload their own PECS and ad
 
 The Interface is designed to be simple and resemble a PECS Binder with the I Want Strip at the top and the available PECS at the bottom<br />
 The available PECS are all sorted in seperate tabs by their tags. <br />
-For easy accessibility, the Available PECS are shown as large as possible and only one occupy row, scrollable in Y-axis.<br />
+For easy accessibility, the Available PECS are shown as large as possible and only occupy one row, scrollable in Y-axis.<br />
 The Website is optimal in a wide-screen mode, such as on a tablet or any mobile device in landscape mode, or computer.<br />
 
 ### Audio Feedback
@@ -123,7 +123,7 @@ Run the command from ide to install gTTs package
 
     $ pip install gTTS
 
-### Folder Structure
+<details><summary>### Folder Structure</summary>
 
 #### Root Folder
 
@@ -140,12 +140,13 @@ The Static Folder has the follwing sub-folders:
 #### Templates Folder
 
 Contains all the html files.
+</details>
 
 ### Database Schema
 
 The application uses sqlite3 database.
 
-#### Users Table
+#### User's Table
 
 Table to store user information for registered users.
 
