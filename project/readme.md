@@ -21,17 +21,15 @@
 
 ## TOC
 
-- [Heading](##heading)
-  * [Sub-heading](###sub-heading)
-    + [Sub-sub-heading](####sub-sub-heading)
-- [Heading](##heading-1)
+- [About](##About)
+- [Description](##Description)
   * [Sub-heading](###sub-heading-1)
     + [Sub-sub-heading](#####sub-sub-heading-1)
 - [Heading](##heading-2)
   * [Sub-heading](###sub-heading-2)
     + [Sub-sub-heading](####sub-sub-heading-2)
 
-## About
+##About
 
 PECS stands for Picture Exchange Communication System.<br />
 The PECS helps anyone with communication challenges, such as persons with Autism, communicate by exchanging pictures.<br />
@@ -41,13 +39,13 @@ where we are able to use an “I want” picture followed by a picture of the it
 Learn more about PECS from Pyramid Educational Consultants who developed the PECS -<br />
 [https://pecs.com/picture-exchange-communication-system-pecs/](https://pecs.com/picture-exchange-communication-system-pecs/)<br />
 
-## Description
+##Description
 
 The Website Application is designed to allow the use of the Binder even without registering.<br />
 The PECS available are the generic items available to everyone.<br />
 Registration will allow users of the application to upload their own PECS and add PECS to a favourites tab.<br />
 
-### PECS Strips ( Home / Index )
+###PECS Strips ( Home / Index )
 <img src="images/binder-index-parts.jpg" width="700px">
 
 The Interface is designed to be simple and resemble a PECS Binder with the I Want Strip at the top and the available PECS at the bottom<br />
@@ -55,7 +53,7 @@ The available PECS are all sorted in seperate tabs by their tags. <br />
 For easy accessibility, the Available PECS are shown as large as possible and only occupy one row, scrollable in Y-axis.<br />
 The Website is optimal in a wide-screen mode, such as on a tablet or any mobile device in landscape mode, or computer.<br />
 
-### Audio Feedback
+###Audio Feedback
 Clicking on each of the PECS will play the audio of the PECS description.<br />
 In the First..Then Strip, clicking on each of the boxes in the Strip will read that Box's sentence structure.. <br />
 i.e. Clicking the First Box will read "First,.." followed by the PECS description, if filled. <br />
