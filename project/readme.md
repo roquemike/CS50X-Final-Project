@@ -26,51 +26,51 @@
 
 ## About
 
-PECS stands for Picture Exchange Communication System.
-The PECS helps anyone with communication challenges, such as persons with Autism, communicate by exchanging pictures.
+PECS stands for Picture Exchange Communication System.<br />
+The PECS helps anyone with communication challenges, such as persons with Autism, communicate by exchanging pictures.<br />
 
-PECS have different phases and The Online Binder is designed for use in the 4th Phase,
-where we are able to use an “I want” picture followed by a picture of the item being requested.
-Learn more about PECS from Pyramid Educational Consultants who developed the PECS -
-[https://pecs.com/picture-exchange-communication-system-pecs/](https://pecs.com/picture-exchange-communication-system-pecs/)
+PECS have different phases and The Online Binder is designed for use in the 4th Phase,<br />
+where we are able to use an “I want” picture followed by a picture of the item being requested.<br />
+Learn more about PECS from Pyramid Educational Consultants who developed the PECS -<br />
+[https://pecs.com/picture-exchange-communication-system-pecs/](https://pecs.com/picture-exchange-communication-system-pecs/)<br />
 
 ## Description
 
-The Website Application is designed to allow the use of the Binder even without registering.
-The PECS available are the generic items available to everyone.
-Registration will allow users of the application to upload their own PECS and add PECS to a favourites tab.
+The Website Application is designed to allow the use of the Binder even without registering.<br />
+The PECS available are the generic items available to everyone.<br />
+Registration will allow users of the application to upload their own PECS and add PECS to a favourites tab.<br />
 
 ### PECS Strips ( Home / Index )
 <img src="images/binder-index-parts.jpg" width="700px">
 
-The Interface is designed to be simple and resemble a PECS Binder with the I Want Strip at the top and the available PECS at the bottom
-The available PECS are all sorted in seperate tabs by their tags. 
-For easy accessibility, the Available PECS are shown as large as possible and only one occupy row, scrollable in Y-axis.
-The Website is optimal in a wide-screen mode, such as on a tablet or any mobile device in landscape mode, or computer.
+The Interface is designed to be simple and resemble a PECS Binder with the I Want Strip at the top and the available PECS at the bottom<br />
+The available PECS are all sorted in seperate tabs by their tags. <br />
+For easy accessibility, the Available PECS are shown as large as possible and only one occupy row, scrollable in Y-axis.<br />
+The Website is optimal in a wide-screen mode, such as on a tablet or any mobile device in landscape mode, or computer.<br />
 
 ### Audio Feedback
-Clicking on each of the PECS will play the audio of the PECS description.
-In the First..Then Strip, clicking on each of the boxes in the Strip will read that Box's sentence structure.. 
-i.e. Clicking the First Box will read "First,.." followed by the PECS description, if filled. 
-Clicking on the Read icon which will read the whole sentence structure for both the I want and the First..Then strips.
+Clicking on each of the PECS will play the audio of the PECS description.<br />
+In the First..Then Strip, clicking on each of the boxes in the Strip will read that Box's sentence structure.. <br />
+i.e. Clicking the First Box will read "First,.." followed by the PECS description, if filled. <br />
+Clicking on the Read icon which will read the whole sentence structure for both the I want and the First..Then strips.<br />
 
 #### Strip Tabs
 
 ##### I Want Strip
 <img src="images/binder-iwant.jpg" width="700px">
-The I Want Strip can be used by the individual to request for an activity or item.
-The PECS can be chosen by scrolling through the PECS tab then clicking on one of the available PECS,
-The chosen PECS then will automatically appear beside the I Want Picture.
+The I Want Strip can be used by the individual to request for an activity or item.<br />
+The PECS can be chosen by scrolling through the PECS tab then clicking on one of the available PECS,<br />
+The chosen PECS then will automatically appear beside the I Want Picture.<br />
 
 ##### First .. Then Strip
 <img src="images/binder-first-then.jpg" width="700px">
 
-The First .. Then strip is used to communicate with the individual and is useful to convey a sequence of events,
-i.e. First, an item or activity must be done, Then.. you can get the item or perform the next activity or task.
-The "First" Box is active by default (which can be recognized because of the black border), Choosing a PECS will fill the "First" Box.
-The active box will automatically move to "Then" after choosing a PECS, the next chosen pecs will fill up the "Then" Box.
+The First .. Then strip is used to communicate with the individual and is useful to convey a sequence of events,<br />
+i.e. First, an item or activity must be done, Then.. you can get the item or perform the next activity or task.<br />
+The "First" Box is active by default (which can be recognized because of the black border), Choosing a PECS will fill the "First" Box.<br />
+The active box will automatically move to "Then" after choosing a PECS, the next chosen pecs will fill up the "Then" Box.<br />
 
-Clicking on any of the Boxes will change the active Box. Once an active box is chosen, you can change the current PECS by clicking another PECS.
+Clicking on any of the Boxes will change the active Box. Once an active box is chosen, you can change the current PECS by clicking another PECS.<br />
 Alternately, the user can click the reset button to clear the Strip Boxes.
 
 ### Registered Users
@@ -81,32 +81,32 @@ Registered Users have the capaibility to
 
 #### Upload
 <img src="images/binder-upload.jpg" width="700px">
-Upload allows a registred user to upload a PECS.
-The PECS will then appear with the rest of the Available PECS and will only be available to the person that uploaded the picture.
+Upload allows a registred user to upload a PECS.<br />
+The PECS will then appear with the rest of the Available PECS and will only be available to the person that uploaded the picture.<br />
 
 <img src="images/binder-upload-success.jpg" width="700px">
-Upon a successful upload, the PECS will be shown including the description and the tag.
-An audio for the description is automtically generated for the PECS.
-A database entry will be insderted containing the image's location, the description audio location, and the tag. 
+Upon a successful upload, the PECS will be shown including the description and the tag.<br />
+An audio for the description is automtically generated for the PECS.<br />
+A database entry will be insderted containing the image's location, the description audio location, and the tag. <br />
 
 #### Edit
 <img src="images/binder-edit-tag.jpg" width="700px">
-Edit allows the user to change the Description and Tag of the PECS, or delete the picture.
-Clicking on the Description will provide a cursor to allow the user to change the description.
-Clicking on the tag will show all available tags in a drop-down.
-The changes, once made are saved to the database automatically and will not need any additional action to save.
-Only the PECS that the user has uploaded will be shown in this section.
+Edit allows the user to change the Description and Tag of the PECS, or delete the picture.<br />
+Clicking on the Description will provide a cursor to allow the user to change the description.<br />
+Clicking on the tag will show all available tags in a drop-down.<br />
+The changes, once made are saved to the database automatically and will not need any additional action to save.<br />
+Only the PECS that the user has uploaded will be shown in this section.<br />
 
 #### Manage Faves
 <img src="images/binder-manage_fave.jpg" width="700px">
-PECS can be added to a favourite tab.
-All Available PECS, including the standard PECS will can be tagged in favourites.
-Clicking on an empty star will add the PECS to favourites,
-Clicking on a solid star will remove it from favourites.
+PECS can be added to a favourite tab.<br />
+All Available PECS, including the standard PECS will can be tagged in favourites.<br />
+Clicking on an empty star will add the PECS to favourites,<br />
+Clicking on a solid star will remove it from favourites.<br />
 
 <img src="images/binder-home-fave.jpg" width="700px">
-A Favourites tab will appear with all the PECS tagged as favourite.
-If there are no images tagged in Favourites, this tab will not be shown.
+A Favourites tab will appear with all the PECS tagged as favourite.<br />
+If there are no images tagged in Favourites, this tab will not be shown.<br />
 
 ## Project Resources
 
@@ -121,8 +121,8 @@ The project was created in the CS50 ide environment and used the following libra
 
 ### Google Text to Speech
 
-The Application uses Googles Text to Speech to generate the Audio files.
-The Google Text to Speech Package needs to be installed first in the ide to make the gTTx library available.
+The Application uses Googles Text to Speech to generate the Audio files.<br />
+The Google Text to Speech Package needs to be installed first in the ide to make the gTTx library available.<br />
 
 Run the command from ide to install gTTs package
 
