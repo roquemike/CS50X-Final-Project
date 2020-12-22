@@ -28,7 +28,7 @@
   - [Registered Users](#Registered%20Users)<br>
   - [Audio](#Audio)<br>
 
-[Project Resources](#Project%20Resources)<br>
+[Resources](#Resources)<br>
 [References](#References)<br>
 
 # About
@@ -120,7 +120,7 @@ In the First..Then Strip, clicking on each of the boxes in the Strip will read t
 i.e. Clicking the First Box will read "First,.." followed by the PECS description, if filled. <br />
 Clicking on the Read icon which will read the whole sentence structure for both the I want and the First..Then strips.<br />
 
-# Project Resources
+# Resources
 
 <details><summary>CS50 ide</summary>
 
