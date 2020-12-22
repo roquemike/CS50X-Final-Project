@@ -22,12 +22,13 @@
 
 ## TOC
 
-[About](#About)
-[Description](#Description)
+[About](#About)<br>
+[Description](#Description)<br>
   - [PECS Strips ( Home / Index )](#PECS%20Strips%20(%20Home%20/%20Index%20))<br>
-    [[Audio](#Audio)] [[Strip Tabs](#Strip%20Tabs)] [[Registered Users](#Registered%20Users)]
-  - [Project Resources](#Project%20Resources)
-  - [References](#References)
+    [[Audio](#Audio)] [[Strip Tabs](#Strip%20Tabs)] 
+  - [Registered Users](#Registered%20Users)]<br>
+[Project Resources](#Project%20Resources)<br>
+[References](#References)
 
 # About
 
