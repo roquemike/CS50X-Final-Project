@@ -25,9 +25,7 @@
 - [About](#About)
 - [Description](#Description)
   * [PECS Strips ( Home / Index )](#PECS%20Strips%20(%20Home%20/%20Index%20))
-    + [Audio](#Audio)
-    + [Strip Tabs](#Strip%20Tabs)
-    + [Registered Users](#Registered%20Users)
+    [[Audio](#Audio)] [[Strip Tabs](#Strip%20Tabs)] [[Registered Users](#Registered%20Users)]
   * [Project Resources](#Project%20Resources)
   * [References](#References)
 
