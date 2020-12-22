@@ -15,13 +15,9 @@
 <nobr>  ██╔══██╗██║██║╚████║██║░░██║██╔══╝░░██╔══██╗                                               </nobr>
 <nobr>  ██████╦╝██║██║░╚███║██████╔╝███████╗██║░░██║                                               </nobr>
 <nobr>  ╚═════╝░╚═╝╚═╝░░╚══╝╚═════╝░╚══════╝╚═╝░░╚═╝                                               </nobr>
-                                                                                                
-                                                                                                
-
-
-
-
-..every readme should have an ascii text art..
+<nobr>                                                                                             </nobr>   
+<nobr>                                                                                             </nobr>   
+..every readme should have an ascii text art.. <br />
 ..polarburr#9201..
 
 ## About
