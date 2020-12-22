@@ -157,22 +157,22 @@ Table to store user information for registered users.
 Special Users:
 User 1 : Public - used to upload images available to unregistered and registered users.
 
-  CREATE TABLE IF NOT EXISTS 'users' (
-  'id' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  'username' TEXT NOT NULL,
-  'hash' TEXT NOT NULL
-  );
-  CREATE UNIQUE INDEX 'username' ON "users" ("username");
+    CREATE TABLE IF NOT EXISTS 'users' (
+    'id' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    'username' TEXT NOT NULL,
+    'hash' TEXT NOT NULL
+    );
+    CREATE UNIQUE INDEX 'username' ON "users" ("username");
 
 #### Image Table
 
 Table to be used to store Image location.
 
-  CREATE TABLE img(
-  'id' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
-  'name' TEXT NOT NULL,
-  'desc' TEXT NOT NULL
-  );
+    CREATE TABLE img(
+    'id' INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,
+    'name' TEXT NOT NULL,
+    'desc' TEXT NOT NULL
+    );
 
 
 Sample Data
