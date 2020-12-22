@@ -25,8 +25,8 @@
 [About](#About)<br>
 [Description](#Description)<br>
   - [PECS Strips ( Home / Index )](#PECS%20Strips%20(%20Home%20/%20Index%20))<br>
-    [[Audio](#Audio)] [[Strip Tabs](#Strip%20Tabs)] 
-  - [Registered Users](#Registered%20Users)]<br>
+  - [Registered Users](#Registered%20Users)<br>
+  - [Audio](#Audio)
 [Project Resources](#Project%20Resources)<br>
 [References](#References)
 
@@ -53,12 +53,6 @@ The Interface is designed to be simple and resemble a PECS Binder with the I Wan
 The available PECS are all sorted in seperate tabs by their tags. <br />
 For easy accessibility, the Available PECS are shown as large as possible and only occupy one row, scrollable in Y-axis.<br />
 The Website is optimal in a wide-screen mode, such as on a tablet or any mobile device in landscape mode, or computer.<br />
-
-### Audio
-Clicking on each of the PECS will play the audio of the PECS description.<br />
-In the First..Then Strip, clicking on each of the boxes in the Strip will read that Box's sentence structure.. <br />
-i.e. Clicking the First Box will read "First,.." followed by the PECS description, if filled. <br />
-Clicking on the Read icon which will read the whole sentence structure for both the I want and the First..Then strips.<br />
 
 ### Strip Tabs
 
@@ -118,6 +112,12 @@ Clicking on a solid star will remove it from favourites.<br />
 A Favourites tab will appear with all the PECS tagged as favourite.<br />
 If there are no images tagged in Favourites, this tab will not be shown.<br />
 </details>
+
+## Audio
+Clicking on each of the PECS will play the audio of the PECS description.<br />
+In the First..Then Strip, clicking on each of the boxes in the Strip will read that Box's sentence structure.. <br />
+i.e. Clicking the First Box will read "First,.." followed by the PECS description, if filled. <br />
+Clicking on the Read icon which will read the whole sentence structure for both the I want and the First..Then strips.<br />
 
 # Project Resources
 
