@@ -21,8 +21,8 @@
 
 ## TOC
 
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+  * [Sub-heading](#About)
+    + [Sub-sub-heading](#Description)
   * [Sub-heading](#sub-heading-2)
     + [Sub-sub-heading](#sub-sub-heading-2)
 ## About
