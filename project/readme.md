@@ -24,12 +24,11 @@
 - [About](#About)
 - [Description](#Description)
   * [PECS Strips ( Home / Index )](#PECS%20Strips%20(%20Home%20/%20Index%20))
-    + [Sub-sub-heading](#sub-sub-heading-1)
-  * [Audio](#Audio)
-  
-  * [Audio](#Audio)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
+    + [Audio](#Audio)
+    + [Strip Tabs](#Strip%20Tabs)
+    + [Registered Users](#Registered%20Users)
+  * [Project Resources](#Project%2-Resources)
+  * [References](#References)
 
 # About
 
@@ -79,13 +78,6 @@ The active box will automatically move to "Then" after choosing a PECS, the next
 
 Clicking on any of the Boxes will change the active Box. Once an active box is chosen, you can change the current PECS by clicking another PECS.<br />
 Alternately, the user can click the reset button to clear the Strip Boxes.
-## PECS Strips ( Home / Index )
-<img src="images/binder-index-parts.jpg" width="700px">
-
-The Interface is designed to be simple and resemble a PECS Binder with the I Want Strip at the top and the available PECS at the bottom<br />
-The available PECS are all sorted in seperate tabs by their tags. <br />
-For easy accessibility, the Available PECS are shown as large as possible and only occupy one row, scrollable in Y-axis.<br />
-The Website is optimal in a wide-screen mode, such as on a tablet or any mobile device in landscape mode, or computer.<br />
 
 ## Registered Users
 
