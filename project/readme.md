@@ -21,15 +21,15 @@
 
 ## TOC
 
-- [About](##About)
-- [Description](##Description)
+- [About](## About)
+- [Description](## Description)
   * [Sub-heading](###sub-heading-1)
     + [Sub-sub-heading](#####sub-sub-heading-1)
 - [Heading](##heading-2)
   * [Sub-heading](###sub-heading-2)
     + [Sub-sub-heading](####sub-sub-heading-2)
 
-##About
+## About
 
 PECS stands for Picture Exchange Communication System.<br />
 The PECS helps anyone with communication challenges, such as persons with Autism, communicate by exchanging pictures.<br />
@@ -39,7 +39,7 @@ where we are able to use an “I want” picture followed by a picture of the it
 Learn more about PECS from Pyramid Educational Consultants who developed the PECS -<br />
 [https://pecs.com/picture-exchange-communication-system-pecs/](https://pecs.com/picture-exchange-communication-system-pecs/)<br />
 
-##Description
+## Description
 
 The Website Application is designed to allow the use of the Binder even without registering.<br />
 The PECS available are the generic items available to everyone.<br />
