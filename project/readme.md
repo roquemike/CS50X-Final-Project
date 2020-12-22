@@ -105,7 +105,7 @@ If there are no images tagged in Favourites, this tab will not be shown.<br />
 
 ## Project Resources
 
-### CS50 ide
+<details><summary>CS50 ide</summary>
 
 The project was created in the CS50 ide environment and used the following libraries that were already available:
 - [Werkzeug library](https://pypi.org/project/Werkzeug/)
@@ -114,7 +114,9 @@ The project was created in the CS50 ide environment and used the following libra
 - [flask_session](https://pypi.org/project/Flask-Session/)
 - [Jinja version 2.11](https://jinja.palletsprojects.com/en/2.11.x/)
 
-### Google Text to Speech
+</details>
+
+<details><summary>Google Text to Speech</summary>
 
 The Application uses Googles Text to Speech to generate the Audio files.<br />
 The Google Text to Speech Package needs to be installed first in the ide to make the gTTx library available.<br />
@@ -122,8 +124,9 @@ The Google Text to Speech Package needs to be installed first in the ide to make
 Run the command from ide to install gTTs package
 
     $ pip install gTTS
+</details>
 
-<details><summary>### Folder Structure</summary>
+<details><summary>Folder Structure</summary>
 
 #### Root Folder
 
@@ -142,7 +145,7 @@ The Static Folder has the follwing sub-folders:
 Contains all the html files.
 </details>
 
-### Database Schema
+<details><summary>Database Schema</summary>
 
 The application uses sqlite3 database.
 
@@ -205,6 +208,7 @@ Sample Data
 | 44        |  104       |  favourites  |
 | 35        |  104       |  favourites  |
 
+</details>
 
 ## References
 - [gTTS](https://gtts.readthedocs.io/en/latest/)
