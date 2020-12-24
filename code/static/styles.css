@@ -262,13 +262,14 @@ table
 
 .PECS
 {
-    min-width: 140px;
+    min-width: 150px;
     padding: 10px;
     vertical-align: bottom;
     background-color: white;
     color: black;
     font-size: 40px;
     text-align: center;
+    overflow: hidden;
 }
 
 .PECS:hover, .active_pecs{

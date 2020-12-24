@@ -187,14 +187,19 @@ def fave():
 
     if request.method == "POST":
 
-        op = request.form.get('fav')
-        img_id = int(request.form.get('id'))
+        if request.form.get('fav'):
+            op = request.form.get('fav')
+            img_id = int(request.form.get('id'))
 
-        if op == "add":
-            db.execute("INSERT INTO tag (image_id, user_id, tag) VALUES(:img_id, :user_id, :tag)", img_id=img_id, user_id=session['user_id'], tag="favourites")
+            if op == "add":
+                db.execute("INSERT INTO tag (image_id, user_id, tag) VALUES(:img_id, :user_id, :tag)", img_id=img_id, user_id=session['user_id'], tag="favourites")
+            else:
+                db.execute("DELETE FROM tag WHERE user_id = :user_id AND (image_id = :img_id AND tag = :tag)", img_id=img_id, user_id=session['user_id'], tag="favourites")
+            return "0"
         else:
-            db.execute("DELETE FROM tag WHERE user_id = :user_id AND (image_id = :img_id AND tag = :tag)", img_id=img_id, user_id=session['user_id'], tag="favourites")
-        return "0"
+            db.execute("DELETE FROM tag WHERE tag = :tag AND user_id = :user_id", tag="favourites", user_id=session['user_id'])
+            return redirect("/fave")
+
 
     else:
 

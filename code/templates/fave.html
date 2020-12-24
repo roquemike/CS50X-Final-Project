@@ -9,7 +9,9 @@
     <div class="center_column">
         <div class="center_column faded_blue width100">
             <h4>MANAGE FAVOURITES</h4>
-
+            <form action="/fave" method="post">
+                <button id="clear_fave" class="btn btn-info" style="float: right" type="submit">Clear Faves</button>
+            </form>
             Showing All PECS in Alphabetical order.
             <br>Click the Star to Add / Remove PECS in Favourites:
 
@@ -33,9 +35,9 @@
                     </div>
                 {% endfor %}
             </div>
-            Dont see a PECS you need?
-            <br><a href="/upload">UPLOAD</a> your own PECS!
-            <br>Your uploaded PECS will only be available to you!
+
+            Dont see a PECS you need? <a href="/upload">UPLOAD</a> your own PECS!
+            <br>note: Your uploaded PECS will only be available to you!
         </div>
     </div>
 
